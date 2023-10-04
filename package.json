@@ -54,7 +54,7 @@
     "url": "https://github.com/awinogrodzki/next-firebase-auth-edge.git"
   },
   "engines": {
-    "node": ">=16.0.0 <20.0.0",
+    "node": ">=16.0.0",
     "npm": ">=8.0.0 <10.0.0",
     "yarn": ">=1.22.0 <2.0.0"
   },
